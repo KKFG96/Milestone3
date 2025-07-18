@@ -6,7 +6,7 @@ The project is a fan website dedicated to Christian Frias, showcasing his music,
 
 ## Live Site
 
-[Click here to view the website on GitHub Pages](https://kkfg96.github.io/Milestone1/)
+[Click here to view the website on GitHub Pages](https://kkfg96.github.io/Milestone3/)
 
 ## Project Structure
 
